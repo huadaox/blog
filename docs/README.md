@@ -1,6 +1,6 @@
-# Narrative Flywheel Blog
+# huadaox Blog
 
-欢迎来到 **Narrative Flywheel** 的技术博客。这里记录了关于大语言模型（LLM）在长文生成、小说创作和叙事一致性方面的研究与思考。
+欢迎来到 **huadaox** 的技术博客。这里记录了我的一些日常。
 
 ### 核心文章
 
